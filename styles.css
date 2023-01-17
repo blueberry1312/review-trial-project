@@ -1,0 +1,21 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #c156ff;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 20px;
+}
+
+#header {
+  display: flex;
+  background-color: #d8ff56;
+  justify-content: space-between;
+  width: 100%;
+}
+
+#nav-bar {
+  background-color: #a856ff;
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+}
